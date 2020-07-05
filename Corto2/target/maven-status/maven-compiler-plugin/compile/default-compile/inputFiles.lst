@@ -1,0 +1,9 @@
+/home/guille/NetBeansProjects/Corto2/src/main/java/com/progra2/persistencia/exceptions/NonexistentEntityException.java
+/home/guille/NetBeansProjects/Corto2/src/main/java/com/progra2/persistencia/Usuario.java
+/home/guille/NetBeansProjects/Corto2/src/main/java/com/progra2/persistencia/exceptions/RollbackFailureException.java
+/home/guille/NetBeansProjects/Corto2/src/main/java/com/progra2/persistencia/exceptions/PreexistingEntityException.java
+/home/guille/NetBeansProjects/Corto2/src/main/java/com/progra2/servlets/UsuarioJpacontroller.java
+/home/guille/NetBeansProjects/Corto2/src/main/java/com/progra2/servlets/ServletEliminar.java
+/home/guille/NetBeansProjects/Corto2/src/main/java/com/progra2/servlets/ServletRecibir.java
+/home/guille/NetBeansProjects/Corto2/src/main/java/com/progra2/persistencia/exceptions/IllegalOrphanException.java
+/home/guille/NetBeansProjects/Corto2/src/main/java/com/progra2/persistencia/UsuarioJpaController.java
